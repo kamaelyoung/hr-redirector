@@ -5,18 +5,6 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-/*
- * 
-admin
-NO: assign
-NO: database
-index
-summary
-NO: update
-NO: utility
- */
-
-
 namespace hr_redirector
 {
     public partial class Default : System.Web.UI.Page
